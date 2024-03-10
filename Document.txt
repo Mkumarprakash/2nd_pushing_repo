@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 this is version v2
+=======
+This is me piku
+i am a disco dancer la la lala.
+
+3rd commit it is v4
+>>>>>>> pikun
